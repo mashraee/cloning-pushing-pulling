@@ -9,5 +9,5 @@
 ## Olha
 * Olha Halat
 * 33 years old
-* Nationality: Ukrainian
-* Favorite food: rice, cheese, and cakes
+* Nationality: :ukraine:
+* Favorite food: rice, :cheese: and :cake:
